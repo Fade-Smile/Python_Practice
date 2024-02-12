@@ -1,2 +1,2 @@
-# Python_Practice-
+# Python_Practice
 Python Learning Note
